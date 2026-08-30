@@ -1,6 +1,10 @@
 # 4-Phase-Buck-Converter
 A 480W four-phase application-specific 24V-to-12V synchronous buck converter with 99.0% efficiency
 
+<img width="1100" height="390" alt="image" src="https://github.com/user-attachments/assets/342faa0d-e8ee-453b-a59e-6dc318254f54" />
+<img width="1100" height="390" alt="image" src="https://github.com/user-attachments/assets/65f562ca-50a0-4648-a980-8922db322188" />
+
+
 ## Problem statement
 
 A wide input range forces every component to be sized for the worst case (ripple ∝ `Vin`, transition loss ∝ `Vin²`), which means oversized parts and more loss. Fixing the input at 24 V lets the design be tuned for efficiency, not worst-case margin.
@@ -87,5 +91,5 @@ P_loss = I²·DCR + P_extvcc + P_sw + P_coss + P_gate + I²·Rds + I_Cin²·ESR 
 ```
 
 ## Schematic
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/20b73548-ce6f-4435-bdde-7eedc25b7c08" />
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/93f55321-1d96-416c-a0d1-c1b89dd7a476" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/7f7a4061-e2a6-4c26-ac84-79990e92cead" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/e2d9aebd-e8ab-417c-b4fb-8d77f99e3ba4" />
