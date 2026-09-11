@@ -1,7 +1,7 @@
 # 4-Phase-Buck-Converter
 A 480W four-phase application-specific 24V-to-12V synchronous buck converter with 99.0% efficiency
 
-<img width="1100" height="390" alt="image" src="https://github.com/user-attachments/assets/342faa0d-e8ee-453b-a59e-6dc318254f54" />
+<img width="1100" height="390" alt="image" src="https://github.com/user-attachments/assets/bb1da63a-2286-409b-a1a1-39d8b96602eb" />
 <img width="1100" height="390" alt="image" src="https://github.com/user-attachments/assets/65f562ca-50a0-4648-a980-8922db322188" />
 
 
